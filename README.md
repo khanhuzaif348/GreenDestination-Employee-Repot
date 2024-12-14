@@ -100,5 +100,5 @@ KPI's
   5. Technical Degree: 32
   6. Human Resources: 7
 
-### ACT
+### Recommendation
 Based on these insights, it appears that factors such as age, gender, salary, job role, and education field significantly influence attrition rates within the organization. Further analysis could delve into reasons behind these trends and formulate strategies to mitigate attrition, such as targeted retention programs, career development initiatives, and salary adjustments.
